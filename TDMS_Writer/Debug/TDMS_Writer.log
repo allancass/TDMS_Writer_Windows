@@ -1,0 +1,10 @@
+﻿  TDMS_Writer.cpp
+c:\users\allan\documents\visual studio 2015\projects\tdms_writer\tdms_writer\tdms_writer.cpp(4): warning C4005: '_SCL_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\allan\documents\visual studio 2015\projects\tdms_writer\tdms_writer\tdms_writer.cpp(4): note: command-line arguments:  see previous definition of '_SCL_SECURE_NO_WARNINGS'
+c:\users\allan\documents\visual studio 2015\projects\tdms_writer\tdms_writer\tdms_writer.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\allan\documents\visual studio 2015\projects\tdms_writer\tdms_writer\tdms_writer.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\allan\documents\visual studio 2015\projects\tdms_writer\tdms_writer\tdms_writer.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  TDMS_Logger.cpp
+  Generating Code...
+  TDMS_Writer.vcxproj -> C:\Users\Allan\Documents\Visual Studio 2015\Projects\TDMS_Writer\Debug\TDMS_Writer.exe
+  TDMS_Writer.vcxproj -> C:\Users\Allan\Documents\Visual Studio 2015\Projects\TDMS_Writer\Debug\TDMS_Writer.pdb (Full PDB)
